@@ -11,7 +11,7 @@ include_once("includes/conexao.php");
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" >
 	<link rel="stylesheet" type="text/css" href="css/fontawesome-all.css">
-
+	<title>Exibir alunos</title>
 	<style>
 		body{
 			position: fixed;
