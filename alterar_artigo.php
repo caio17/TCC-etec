@@ -14,7 +14,7 @@ $itens = $_GET['itens'];
     <link rel="stylesheet" href="css/slick.css" >
     <link rel="stylesheet" href="css/slick-theme.css" >
     <link rel="stylesheet" type="text/css" href="css/fontawesome-all.css">
-    <title>Alterar Artigos</title>
+    <title>Alterar Artigo</title>
   </head>
   <body>
     <form method="post">
